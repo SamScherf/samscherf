@@ -11,6 +11,6 @@ I'm a passionate GNU+Linux and free software enthusiast who is currently a full 
 ## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samscherf)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samscherf&layout=compact&hide=C,Vim%20script,roff,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samscherf&layout=compact&hide=C,Vim%20script,roff,Makefile&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-\* Note that this does not reflect my proficiency in each language but rather how much my Github projects use them
+\* Note that this does not reflect my proficiency in given language but rather how much my Github projects use them
