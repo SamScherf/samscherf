@@ -6,7 +6,7 @@
 
 ---
 
-I'm a passionate GNU+Linux and free software enthusiast who is currently a full time student at Stanford majoring in Physics. I love open source software and try to contriubte whenever and wherever I can. I reuglarly write and post articles about my projects on my [website](https://samscherf.om) and I also release everythng as GPLv3 here on my Github. I'm also the Co-Founder and CEO of [Ampolic Digitial Solutions LLC](https://ampolic.com). Ampolic is a web design company founded in 2020 with the purpose of minimzing bloatware on the web and supporting open source princples. Checkout some of the open source projects we've developed on our company [Github](https://github.com/ampolic).
+I'm a passionate GNU+Linux and free software enthusiast who is currently a full time student at Stanford majoring in Physics. I love open source software and try to contribute whenever and wherever I can. I regularly write and post articles about my projects on my [website](https://samscherf.om) and I also release everything as GPLv3 here on my Github. I'm also the Co-Founder and CEO of [Ampolic Digital Solutions LLC](https://ampolic.com). Ampolic is a web design company founded in 2020 with the purpose of minimizing bloatware on the web and supporting open source principles. Checkout some of the open source projects we've developed on our company [Github](https://github.com/ampolic).
 
 ## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samscherf)](https://git.io/streak-stats)
